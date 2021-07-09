@@ -26,72 +26,17 @@ Hello, I am a 2nd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 [04/2019] Our paper has been accepted in <i>ACS Nano</i>. First paper on materials/nanotechnology as a first or co-first author!
 
-# Books
+# Publications
 
-* L. Zhang, <strong><u>J. F. Yu</u></strong>, and L. D. Yang, Micro- and Nanorobots: From Individual to Swarm (in Chinese), <strong><i>Science Press (科学出版社)</i></strong>, 2020.
+* Yuxiao Tu, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam*, "Graph Convolutional Network based Configuration Detection for Freeform Modular Robot Using Magnetic Sensor Array," <strong><i>IEEE International Conference on Robotics and Automation(ICRA)</i></strong>, 2021.
 
-# Selected Journal Publications
+* Junjie Hu, Xiyue Guo, Junfeng Chen, <strong><u>Guanqi Liang</u></strong>, Fuqin Deng, Tin Lun Lam, "A Two-stage Unsupervised Approach for Low Light Image Enhancement," <strong><i>IEEE Robotics and Automation Letters</i></strong>, 2021
 
-* X. Wang, J. H. Law, M. X. Luo, Z. Y. Gong, <strong><u>J. F. Yu</u></strong>, W. T. Tang, Z. R. Zhang, X. T. Mei, Z. J. Huang, L. D. You and Y. Sun, Magnetic Measurement and Stimulation of Cellular and Intracellular Structures, <strong><i>ACS Nano</i></strong>, 14 (4), 3805-3821, 2020.
+* <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Ming Li, Huihuan Qian, Tin Lun Lam, "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 988-995
 
-* Q. Q. Wang, L. D. Yang, <strong><u>J. F. Yu</u></strong>, Philip W. Y, Chiu, Y. P. Zheng and L. Zhang, Real-time magnetic navigation of a rotating colloidal microswarm under ultrasound guidance, <strong><i>IEEE Transactions on Biomedical Engineering</i></strong>, accepted, 2020.
+* Haobo Luo, Ming Li, <strong><u>Guanqi Liang</u></strong>, Huihuan Qian, Tin Lun Lam, "An Obstacle-crossing Strategy Based on the Fast Self-reconfiguration for Modular Sphere Robots," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 3296-3303
 
-* Q. Q. Wang, <strong><u>J. F. Yu</u></strong>, K. Yuan, L. D. Yang, D. D. Jin and L. Zhang, Disassembly and spreading of magnetic nanoparticle clusters on uneven surfaces, <strong><i>Applied Materials Today</i></strong>, 18, 100489, 2020.
-
-* <strong><u>J. F. Yu</u></strong><sup>*</sup>, D. D. Jin<sup>*</sup>, K. F. Chan, Q. Q. Wang, K. Yuan and L. Zhang, Active Generation and Magnetic Actuation of Microrobotic Swarms in Bio-fluids, <strong><i>Nature Communications</i></strong>, accepted, 2019.( <sup>*</sup> denotes co-first authorship.)
-
-* D.D. Jin<sup>*</sup>, <strong><u>J. F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <strong><i>ACS Nano</i></strong>, Vol. 13, Issue 5, 5999-6007, 2019. ( <sup>*</sup> denotes co-first authorship.)
-
-* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 1, 154-163, 2019. (Finalist for 2020 TMECH Best Paper Award)
-
-* L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
-
-* <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <strong><i>IEEE Robotics and Automation Letters</i></strong>, Vol. 4, Issue 3, 2942-2949, 2019.
-
-* T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu, L. Zhang, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 3, 924-934, 2019.
-
-* B. Wang, F. T. Ji, <strong><u>J. F. Yu</u></strong>, L. D. Yang, Q. Q. Wang, L. Zhang, Bubble-assisted three-dimensional ensemble of nanomotors for improved catalytic performance,<strong><i> iScience</i></strong>, Vol 20, 760-771, 2019. (high- lighted as the front cover)
-
-
-* Q. Q. Wang, <strong><u>J. F. Yu</u></strong>, K. Yuan, L. D. Yang, L. Zhang*, Disassembly and Spreading of Magnetic Nanoparticle Clusters on Uneven Surfaces, <strong><i>Applied Materials Today</i></strong>, 2019, accepted.
-
-* <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <strong><i>Nature Communications</i></strong>, Vol. 9, 3260, 2018. (ESI highly cited paper)
-
-
-
-* <strong><u>J. F. Yu</u></strong>, L. D. Yang and L. Zhang, Pattern Generation and Motion Control of a Vortex-like Paramagnetic Nanoparticle Swarm, <strong><i>International Journal of Robotics Research</i></strong>, Vol. 37, Issue 8, 912-930, 2018.
-
-* <strong><u>J.F. Yu</u></strong>, T. T. Xu, Z. Y. Lu, C. I. Vong, L. Zhang, On-demand Disassembly of Magnetic Nanoparticle Chains for Microrobotic Cargo Delivery, <strong><i>IEEE Transactions on Robotics</i></strong>, Vol.33, Issue 5, 1213-1225, 2017.
-
-* B. Wang, K. F. Chan, <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, L. D. Yang, P. W. Y. Chiu, L. Zhang, Reconfigurable swarms of ferromagnetic colloids for enhanced local hyperthermia, <strong><i>Advanced Functional Materials</i></strong>, Vol. 28, 1705802, 2018. 
-
-* X. Yan, Q. Zhou, M. Vincent, Y. Deng, <strong><u>J. F. Yu</u></strong>, J. Xu, T. Xu, T. Tang, L. Bian, Y. Wang, K. Kostarelos, L. Zhang, Multifunctional biohybrid magnetite microrobots for imaging-guided therapy,  <strong><i>Science Robotics</i></strong>, Vol. 2, Issue 12, eaaq1155, 2017.
-
-* Qianqian Wang, Lidong Yang, <strong><u>J.F. Yu</u></strong>, Li Zhang, Characterizing Dynamic Behaviors of Three-Particle Paramagnetic Microswimmer Near a Solid Surface, <strong><i>Robotics and Biomimetics</i></strong>, Vol. 4, Issue 4, 2017.
-
-* Q. Q. Wang, L. D. Yang, B. Wang, E. Yu,  <strong><u>J. F. Yu</u></strong>, L. Zhang, Collective behavior of reconfigurable magnetic droplets via dynamic self-assembly, <strong><i>ACS Applied Materials & Interfaces</i></strong>, Vol. 11, No. 1, 1630–1637, 2019.
-
-* X. H. Yan, Q. Zhou, <strong><u>J. F. Yu</u></strong>, T. T. Xu, Y. Deng, T. Tang, Q. Feng, L. M. Bian, Y. Zhang, A. Ferreira and L. Zhang, Magnetite Nanostructured Porous Hollow Helical Microswimmers for Targeted Delivery, <strong><i>Advanced Functional Materials</i></strong>, Vol. 25, 5333-5342, 2015. 
-
-* T. T. Xu,  <strong><u>J. F. Yu</u></strong>, X. H. Yan, H. Choi, L. Zhang, Magnetic Actuation Based Motion Control for Microrobots: An Overview, <strong><i> Micromachines</i></strong>, 2015, 6(9), 1346-1364.
-
-# Selected Conference Publications
-
-* <strong><u>J. F. Yu</u></strong> and L. Zhang, Reconfigurable Colloidal Microrobotic Swarm for Targeted Delivery, <strong><i>IEEE Ubiquitous Robots 2019 (UR 2019)</i></strong>, Jeju, 2019, accepted.
-
-* <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <strong><i>IEEE International Conference on Robotics and Automation (ICRA 2017)</i></strong>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
-
-* <strong><u>J. F. Yu</u></strong>, H. B. Yu, T. T. Xu and L. Zhang. Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation, <strong><i>IEEE International Conference on Automation Science and Engineering (CASE 2015)</i></strong>, pages: 1614-1619. 
-
-* <strong><u>J. F. Yu</u></strong>, L. Zhang, Paramagnetic Nanoparticle-based Vortex: Generation, Mobility and Microma- nipulation, <strong><i>IEEE International Conference on Nanotechnology (IEEE NANO 2017)</i></strong>, Pittsburg, U.S.A., July 25-28, 293 - 296, 2017.
-
-* Q. W. Chao, <strong><u>J. F. Yu</u></strong>, T. T. Xu, L. Zhang, C. L. Wang, X. G. Jin, Steering Micro-Robotic Swarm by Dynamic Actuating Fields, <strong><i>IEEE International Conference on Robotics and Automation (ICRA 2016)</i></strong>, Stockholm, Sweden, 5230-5235, 2016.
-
-* D.D. Jin, <strong><u>J. F. Yu</u></strong>, K. H. Chan, L. Zhang, Self-propelled magnesium based micromotors: synthesis and magnetic steering, <i>International Symposium of Optomechatronics Technology (ISOT 2015)</i>, Vol. 32, 04004, 2015. 
-
-* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, L. Zhang, Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer Near a Surface, <strong><i>IEEE International Conference on Robotics and Biomimetics 2017 (ROBIO 2017)</i></strong>,Macao, China, Dec 5-8, 2017.
-
-* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, C.I. Vong, Philip W.Y. Chiu, L. Zhang, Magnetic Navigation of A Rotating Colloidal Swarm Using Ultrasound Images, <i>IEEE International Conference on Intelligent Robots and Systems (IROS 2018)</i>, Madrid, Spain, Oct 1-5, 5380 - 5385, 2018.
+* Ming Li, <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Huihuan Qian, Tin Lun Lam, "Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 4491-4498
 
 
 # Academic Presentations
