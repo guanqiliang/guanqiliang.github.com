@@ -1,6 +1,6 @@
 # Home
 
-<p style="text-align:justify">Hello, I am a 2nd year Ph.D student in Robotics and AI Lab, supervised by Prof. Tin Lun LAM in The Chinese University of Hong Kong, Shenzhen. My current research interests include modular robotics and field robotics.</p>
+<p style="text-align:justify">Hello, I am a 2nd year Ph.D student in Robotics and AI Lab, supervised by Prof. Tin Lun LAM in The Chinese University of Hong Kong, Shenzhen. My current research interests include <strong>modular robotics</strong> and <strong>field robotics</strong>.</p>
 
 # News
 
