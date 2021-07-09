@@ -36,6 +36,8 @@ Hello, I am a 2nd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 * <strong>National Scholarship</strong>, Ministry of Education, PRC, 2018
 
+* Mathematical Contest In Modeling, <strong>Meritorious Winner</strong>, COMAP, 2017
+
 * <strong>National Scholarship</strong>, Ministry of Education, PRC, 2017
 
 * <strong>National Scholarship</strong>, Ministry of Education, PRC, 2016
