@@ -42,14 +42,14 @@ Hello, I am a 2nd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 # Press
 
-* <strong>Nature News</strong>: ”Making a microscopic swarm move through a maze”.
+* <strong>IEEE Spectrum</strong>: [Metal Spheres Swarm Together to Create Freeform Modular Robots.](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/freebots-spheres-swarm-robots)
 
-* <strong> Nature Video</strong>: ”Making a microscopic swarm move through a maze”.
+* <strong>Engadget</strong>: [Magnetic FreeBOT orbs work together to climb large obstacles.](https://www.engadget.com/freebot-modular-robot-215021382.html)
 
-* <strong>CNN</strong>: ”Hong Kong scientists develop new ’nano-swarm’ robots”.
+* <strong>TechXplore</strong>: [Magnetic FreeBOT balls make giant leap for robotics.](https://techxplore.com/news/2020-11-magnetic-freebot-balls-giant-robotics.html)
 
-* <strong>International Business Times</strong>: ”Shape-changing swarming nanorobots developed to aid complexmedical surgeries”.
+* <strong>DeepTech</strong>: [《超能陆战队》磁性球体机器人成真？中国内地高校近十年来首获机器人顶会IROS最佳论文奖](https://mp.weixin.qq.com/s/NzLRS9Hhun1nba79GGH9jg)
 
-*  <strong>CUHK Press </strong>:"CUHK Robotic Engineers: First to Implement Swarm Behaviours on Nano-Robots".
+* <strong>机器人大讲堂</strong>: [现实版《超能陆战队》：港中深「新型自重构机器人」获IROS最佳机器人设计提名](https://mp.weixin.qq.com/s/Knbd47iNVu5qtmXGJRuWSQ)
 
 
