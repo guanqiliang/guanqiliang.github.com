@@ -32,7 +32,7 @@ Hello, I am a 2nd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 * Junjie Hu, Xiyue Guo, Junfeng Chen, <strong><u>Guanqi Liang</u></strong>, Fuqin Deng, Tin Lun Lam, "A Two-stage Unsupervised Approach for Low Light Image Enhancement," <strong><i>IEEE Robotics and Automation Letters</i></strong>, 2021
 
-* <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Ming Li, Huihuan Qian, Tin Lun Lam, "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 988-995 <strong><u>Best Paper Award on Robot Mechanisms and Design</u></strong>
+* <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Ming Li, Huihuan Qian, Tin Lun Lam, "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 988-995 [Best Paper Award on Robot Mechanisms and Design](https://www.ieee-ras.org/about-ras/latest-news/1767-iros-2020-award-recipients-honored)
 
 * Haobo Luo, Ming Li, <strong><u>Guanqi Liang</u></strong>, Huihuan Qian, Tin Lun Lam, "An Obstacle-crossing Strategy Based on the Fast Self-reconfiguration for Modular Sphere Robots," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 3296-3303
 
