@@ -4,27 +4,17 @@ Hello, I am a 2nd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 # News
 
-[02/2021] For further updates, please visit our group website: www.imlyu.com
+[03/2021] One paper accepted by IEEE International Conference on Robotics and Automation(ICRA) 2021!
 
-[12/2020] I have been appointed as a Topic Editor in  <strong>Frontiers in Robotics and AI </strong>, and  <strong>Micromachines </strong>.
+[12/2020] One paper accepted by IEEE Robotics and Automation Letters!
 
-[11/2020] Our lab is hiring Ph. D. students, Mphil students and Postdocs. Welcome all talented and determined candidates! If you are interested in our lab and research, please send me your CV and representative publications (if any). [More details](https://github.com/jeffyujf/YuJiangfan/blob/master/Poster.png?raw=true)
+[11/2020] Our IROS paper entitled "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation" won the 2020 IROS Best Paper Award on Robot Mechanisms and Design!
 
-[09/2020] Our book "Micro- and Nanorobots: From Individual to Swarm" (in Chinese) has been published.
+[10/2020] I was selected for AIRS Talent of PhD Research Program.
 
-[08/2020] I will join School of Science and Engineering, Chinese University of Hong Kong, Shenzhen, as an assistant professor this November. A team will be built.
+[09/2020] Our IROS paper entitled "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation" has been nominated as 2020 IROS Best Paper Award on Robot Mechanisms and Design!
 
-[06/2020] Our T-Mech paper entitled "Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength" has been named as a finalist for 2020 T-Mech Best Paper Award.
-
-[05/2020] Our Nature Communications paper entitled "Ultra-extensible Ribbon-like Magnetic Microswarm" has been ranked as a ESI highly cited paper.
-
-[11/2019] I joined the Department of Mechanical and Industrial Engineering as a postdoc fellow, University of Toronto.
-
-[07/2019] I honorably received the Postgraduate Research Output Award 2018 (Engineering Faculty).
-
-[07/2019] Our paper has been selected to be Top 50 physics articles published in 2018 from Nature Communication (rank 8th).
-
-[04/2019] Our paper has been accepted in <i>ACS Nano</i>. First paper on materials/nanotechnology as a first or co-first author!
+[07/2020] Three papers accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2020!
 
 # Publications
 
