@@ -21,12 +21,13 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-
-        <p class="one">Assistant Professor | Ph. D.</p>
-        <p class="two">School of Science and Engineering, the Chinese University of Hong Kong, Shenzhen, China</p>
-        <p class="two">Email: yujiangfan@cuhk.edu.cn</p>
-
+        
+        {% if site.github.is_project_page %}
+          <p class="one">Assistant Professor | Ph. D.</p>
+          <p class="two">School of Science and Engineering, the Chinese University of Hong Kong, Shenzhen, China</p>
+          <p class="two">Email: yujiangfan@cuhk.edu.cn</p>
+        {% endif %}
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
