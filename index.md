@@ -14,7 +14,7 @@ Hello, I am a 2nd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 [10/2020] I was selected for AIRS Talent of PhD Research Program.
 
-[09/2020] Our IROS paper entitled "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation" has been nominated as 2020 IROS Best Paper Award on Robot Mechanisms and Design!
+[09/2020] Our IROS paper entitled "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation" was nominated as 2020 IROS Best Paper Award on Robot Mechanisms and Design!
 
 [07/2020] Three papers accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2020!
 
