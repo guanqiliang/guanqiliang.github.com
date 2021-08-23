@@ -4,6 +4,10 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 # News
 
+
+
+[08/2021] Our work “FreeBOT Configuration Detection” is reported by [IEEE Spectrum](https://spectrum.ieee.org/video-friday-constant-gardener)! 
+
 [08/2021] Our work “FreeBOT” is reported by [NHK](https://www.nhk.jp/p/ts/KZ9V71RXVZ/episode/te/LXLJ9VNPY6/)! 
 
 [03/2021] One paper accepted by IEEE International Conference on Robotics and Automation(ICRA) 2021!
