@@ -40,7 +40,7 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 # Awards
 
 * <strong>AIRS Talent PhD Research Program</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
-* 
+
 * <strong>AIRS Talent PhD Research Program</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
 
 * <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, 2020
