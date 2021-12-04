@@ -5,7 +5,7 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 # News
 
 
-[10/2021] I was selected for AIRS Talent of PhD Research Program 2021.
+[10/2021] I was selected for AIRS Talent PhD Research Program 2021.
 
 [08/2021] Our work “FreeBOT Configuration Detection” is reported by [IEEE Spectrum](https://spectrum.ieee.org/video-friday-constant-gardener)! 
 
@@ -19,7 +19,7 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 [10/2020] Our recent work “FreeBOT” is reported by [IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/freebots-spheres-swarm-robots)! 
 
-[10/2020] I was selected for AIRS Talent of PhD Research Program 2020.
+[10/2020] I was selected for AIRS Talent PhD Research Program 2020.
 
 [09/2020] Our IROS paper entitled "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation" was nominated as 2020 IROS Best Paper Award on Robot Mechanisms and Design!
 
@@ -39,7 +39,9 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 # Awards
 
-* <strong>AIRS Talent of PhD Research Program Scholarship</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
+* <strong>AIRS Talent PhD Research Program</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
+* 
+* <strong>AIRS Talent PhD Research Program</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
 
 * <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, 2020
 
