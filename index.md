@@ -5,6 +5,8 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 # News
 
 
+[02/2022] Two papers accepted by IEEE International Conference on Robotics and Automation(ICRA) 2022!
+
 [10/2021] I was selected for AIRS Talent PhD Research Program 2021.
 
 [08/2021] Our work “FreeBOT Configuration Detection” is reported by [IEEE Spectrum](https://spectrum.ieee.org/video-friday-constant-gardener)! 
