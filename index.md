@@ -51,10 +51,6 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 * International Mathematical Contest in Modeling, <strong>Meritorious Winner</strong>, COMAP, 2017
 
-* China Robowork Competition, <strong>First Prize</strong>, 2017
-
-* Jiangsu Robot Contest, <strong>2nd runner-up</strong>, 2017
-
 * <strong>National Scholarship</strong>, Ministry of Education, PRC, 2017
 
 * <strong>National Scholarship</strong>, Ministry of Education, PRC, 2016
