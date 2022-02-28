@@ -29,7 +29,7 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 # Publications
 
-* <strong><u>Guanqi Liang</u></strong>, Yuxiao Tu, Lijun Zong, Junfeng Chen, Tin Lun Lam, "Energy Sharing Mechanism for a Freeform Robotic System – FreeBOT," <strong><i>IEEE International Conference on Robotics and Automation(ICRA)</i></strong>, 2022.
+* <strong><u>Guanqi Liang</u></strong>, Yuxiao Tu, Lijun Zong, Junfeng Chen, Tin Lun Lam, "Energy Sharing Mechanism for a Freeform Robotic System - FreeBOT," <strong><i>IEEE International Conference on Robotics and Automation(ICRA)</i></strong>, 2022.
  
 * Yuxiao Tu, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam*, "FreeSN: A Freeform Strut-node Structured Modular Self-reconfigurable Robot - Design and Implementation," <strong><i>IEEE International Conference on Robotics and Automation(ICRA)</i></strong>, 2022.
  
