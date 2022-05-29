@@ -63,6 +63,8 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 * <strong>IEEE Spectrum</strong>: [Metal Spheres Swarm Together to Create Freeform Modular Robots.](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/freebots-spheres-swarm-robots)
 
+* <strong>NHK</strong>: [世界!オモシロ学者のスゴ動画祭：可能性は無限大！夢の合体ロボ！](https://announcer-news.com/nhk-sugodouga#2021811)
+
 * <strong>Engadget</strong>: [Magnetic FreeBOT orbs work together to climb large obstacles.](https://www.engadget.com/freebot-modular-robot-215021382.html)
 
 * <strong>TechXplore</strong>: [Magnetic FreeBOT balls make giant leap for robotics.](https://techxplore.com/news/2020-11-magnetic-freebot-balls-giant-robotics.html)
