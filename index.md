@@ -5,7 +5,7 @@ Hello, I am a 3rd year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 # News
 
 
-[07/2022] One paper accepted by IEEE Transactions on Robotics!
+[07/2022] One paper accepted by IEEE Transactions on Robotics(T-RO)!
 
 [02/2022] Two papers accepted by IEEE International Conference on Robotics and Automation(ICRA) 2022!
 
