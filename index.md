@@ -57,8 +57,6 @@ Hello, I am a 4th year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 * <strong>National Scholarship</strong>, Ministry of Education, PRC, 2018
 
-* International Mathematical Contest in Modeling, <strong>Meritorious Winner</strong>, 2017
-
 * <strong>National Scholarship</strong>, Ministry of Education, PRC, 2017
 
 * <strong>National Scholarship</strong>, Ministry of Education, PRC, 2016
