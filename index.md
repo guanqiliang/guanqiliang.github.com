@@ -55,11 +55,11 @@ Hello, I am a 4th year Ph.D student in Robotics and AI Lab, supervised by [Prof.
 
 * <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, 2020
 
-* <strong>National Scholarship</strong>, Ministry of Education, PRC, 2018
+* <strong>National Scholarship</strong>, Ministry of Education, China, 2018
 
-* <strong>National Scholarship</strong>, Ministry of Education, PRC, 2017
+* <strong>National Scholarship</strong>, Ministry of Education, China, 2017
 
-* <strong>National Scholarship</strong>, Ministry of Education, PRC, 2016
+* <strong>National Scholarship</strong>, Ministry of Education, China, 2016
 
 # Press
 
