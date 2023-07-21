@@ -1,9 +1,12 @@
 # Home
 
-Hello, I am a 4th year Ph.D candidate in Robotics and AI Lab, supervised by [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) in The Chinese University of Hong Kong, Shenzhen. My current research interests include <strong>modular robotics</strong> and <strong>reconfigurable robotics</strong>.
+Hello, I am a 4th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) in The Chinese University of Hong Kong, Shenzhen. My current research interests include <strong>modular robotics</strong> and <strong>reconfigurable robotics</strong>.
  
 # News
 
+[06/2023] One paper accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2023!
+
+[05/2023] One paper conditionally accepted by IEEE Transactions on Robotics(T-RO)!
 
 [07/2022] One paper accepted by IEEE Transactions on Robotics(T-RO)!
 
@@ -31,6 +34,8 @@ Hello, I am a 4th year Ph.D candidate in Robotics and AI Lab, supervised by [Pro
 
 # Publications
 
+* <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-Ro)</i></strong>, 2023 (Conditionally Accept).
+* 
 * Lijun Zong, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, "Kinematics Modeling and Control of Spherical Rolling Contact Joint and Manipulator," <strong><i>IEEE Transactions on Robotics (T-Ro)</i></strong>, 2022.
 
 * <strong><u>Guanqi Liang</u></strong>, Yuxiao Tu, Lijun Zong, Junfeng Chen, Tin Lun Lam, "Energy Sharing Mechanism for a Freeform Robotic System - FreeBOT," <strong><i>IEEE International Conference on Robotics and Automation(ICRA)</i></strong>, 2022.
@@ -49,9 +54,9 @@ Hello, I am a 4th year Ph.D candidate in Robotics and AI Lab, supervised by [Pro
 
 # Awards
 
-* <strong>AIRS Talent PhD Research Program</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
+* <strong>AIRS Talent PhD Scholarship</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
 
-* <strong>AIRS Talent PhD Research Program</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
+* <strong>AIRS Talent PhD Scholarship</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
 
 * <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, 2020
 
