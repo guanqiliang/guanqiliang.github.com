@@ -4,9 +4,9 @@ Hello, I am a 4th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
  
 # News
 
-[06/2023] One paper accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2023!
+[08/2023] One paper accepted by IEEE Transactions on Robotics(T-RO)!
 
-[05/2023] One paper conditionally accepted by IEEE Transactions on Robotics(T-RO)!
+[06/2023] One paper accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2023!
 
 [07/2022] One paper accepted by IEEE Transactions on Robotics(T-RO)!
 
@@ -34,7 +34,7 @@ Hello, I am a 4th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 # Publications
 
-* <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-Ro)</i></strong>, 2023 (Conditionally Accept).
+* <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-Ro)</i></strong>, 2023 (Accepted).
 
 * Rong Ou*, <strong><u>Guanqi Liang*</u></strong>, Tin Lun Lam, "FPECMV: Learning-based Fault-Tolerant Collaborative Localization under Limited Connectivity," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2023
 
