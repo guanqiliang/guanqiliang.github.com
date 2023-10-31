@@ -4,7 +4,7 @@ Hello, I am a 4th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
  
 # News
 
-[10/2023] Our work “DISG” is reported by [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall)! 
+[10/2023] Our work “DISG” is reported by [IEEE Spectrum]([https://spectrum.ieee.org/video-friday-welcome-to-fall](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D))! 
 
 [08/2023] One paper accepted by IEEE Transactions on Robotics(T-RO)!
 
