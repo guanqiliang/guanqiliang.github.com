@@ -1,6 +1,6 @@
 # Home
 
-Hello, I am a 4th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) in The Chinese University of Hong Kong (Shenzhen). My current research interests include <strong>Modular Robotics</strong> and <strong>Reconfigurable Robotics</strong>.
+Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) in The Chinese University of Hong Kong (Shenzhen). My current research interests include <strong>Modular Robotics</strong> and <strong>Reconfigurable Robotics</strong>.
  
 # News
 
