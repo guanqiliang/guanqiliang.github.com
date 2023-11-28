@@ -72,14 +72,14 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 Reviewers:
 
-* International Journal of Robotics Research <strong>(IJRR)</strong>
+* International Journal of Robotics Research (IJRR)
 
-* IEEE Transactions on Robotics <strong>(T-RO)</strong>
+* IEEE Transactions on Robotics (T-RO)
+* 
+* Journal of Field Robotics (JFR)
 
-* Journal of Field Robotics <strong>(JFR)</strong>
+* IEEE Robotics and Automation Letters (RA-L)
 
-* IEEE Robotics and Automation Letters <strong>(RA-L)</strong>
+* IEEE International Conference on Robotics and Automation (ICRA)
 
-* IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>
-
-* IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
