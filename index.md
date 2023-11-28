@@ -75,7 +75,7 @@ Reviewers:
 * International Journal of Robotics Research (IJRR)
 
 * IEEE Transactions on Robotics (T-RO)
-* 
+  
 * Journal of Field Robotics (JFR)
 
 * IEEE Robotics and Automation Letters (RA-L)
