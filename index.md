@@ -20,7 +20,7 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 # Publications
 
-* <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-Ro)</i></strong>, 2023.
+#<strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-Ro)</i></strong>, 2023.
 
 * Rong Ou*, <strong><u>Guanqi Liang*</u></strong>, Tin Lun Lam, "FPECMV: Learning-based Fault-Tolerant Collaborative Localization under Limited Connectivity," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2023
 
