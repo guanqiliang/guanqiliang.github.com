@@ -34,10 +34,7 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 * Junjie Hu, Xiyue Guo, Junfeng Chen, <strong><u>Guanqi Liang</u></strong>, Fuqin Deng, Tin Lun Lam, "A Two-stage Unsupervised Approach for Low Light Image Enhancement," <strong><i>IEEE Robotics and Automation Letters</i></strong>, 2021.
 
-* <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Ming Li, Huihuan Qian, Tin Lun Lam, "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 988-995.
-*   <a href="http://example.com/" style="color:#FF0000;">Red Link</a>
-* <a style="color: #C00000" href="https://www.baidu.com">[IROS Best Paper Award on Robot Mechanisms and Design]</a>
-* [[IROS Best Paper Award on Robot Mechanisms and Design]](https://www.ieee-ras.org/about-ras/latest-news/1767-iros-2020-award-recipients-honored)
+* <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Ming Li, Huihuan Qian, Tin Lun Lam, "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 988-995. [[IROS Best Paper Award on Robot Mechanisms and Design]](https://www.ieee-ras.org/about-ras/latest-news/1767-iros-2020-award-recipients-honored)
 
 * Haobo Luo, Ming Li, <strong><u>Guanqi Liang</u></strong>, Huihuan Qian, Tin Lun Lam, "An Obstacle-crossing Strategy Based on the Fast Self-reconfiguration for Modular Sphere Robots," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2020, 3296-3303.
 
