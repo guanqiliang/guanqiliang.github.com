@@ -16,19 +16,6 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 [10/2021] I was selected for AIRS Talent PhD Research Program 2021.
 
-[08/2021] Our work “FreeBOT Configuration Detection” is reported by [IEEE Spectrum](https://spectrum.ieee.org/video-friday-constant-gardener)! 
-
-[08/2021] Our work “FreeBOT” is reported by [NHK](https://www.nhk.jp/p/ts/KZ9V71RXVZ/episode/te/LXLJ9VNPY6/)! 
-
-[03/2021] One paper accepted by IEEE International Conference on Robotics and Automation(ICRA) 2021!
-
-[12/2020] One paper accepted by IEEE Robotics and Automation Letters!
-
-[11/2020] Our IROS paper entitled "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation" won the [2020 IROS Best Paper Award on Robot Mechanisms and Design](https://www.ieee-ras.org/about-ras/latest-news/1767-iros-2020-award-recipients-honored)(1/2996) !
-
-[10/2020] Our recent work “FreeBOT” is reported by [IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/freebots-spheres-swarm-robots)! 
-
-[10/2020] I was selected for AIRS Talent PhD Research Program 2020.
 
 
 # Publications
