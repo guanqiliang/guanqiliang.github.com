@@ -59,7 +59,7 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 * <strong>AIRS Talent PhD Scholarship</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
 
-* <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, IEEE, 2020
+* <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, IROS, 2020
 
 * <strong>National Scholarship</strong>, Ministry of Education, China, 2018
 
