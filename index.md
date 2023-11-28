@@ -20,11 +20,11 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 # Publications
 
-* <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-Ro)</i></strong>, 2023.
+* <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
 
 * Rong Ou*, <strong><u>Guanqi Liang*</u></strong>, Tin Lun Lam, "FPECMV: Learning-based Fault-Tolerant Collaborative Localization under Limited Connectivity," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)</i></strong>, 2023
 
-* Lijun Zong, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, "Kinematics Modeling and Control of Spherical Rolling Contact Joint and Manipulator," <strong><i>IEEE Transactions on Robotics (T-Ro)</i></strong>, 2022.
+* Lijun Zong, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, "Kinematics Modeling and Control of Spherical Rolling Contact Joint and Manipulator," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2022.
 
 * <strong><u>Guanqi Liang</u></strong>, Yuxiao Tu, Lijun Zong, Junfeng Chen, Tin Lun Lam, "Energy Sharing Mechanism for a Freeform Robotic System - FreeBOT," <strong><i>IEEE International Conference on Robotics and Automation(ICRA)</i></strong>, 2022.
  
@@ -62,7 +62,7 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 * <strong>Engadget</strong>: [Magnetic FreeBOT orbs work together to climb large obstacles.](https://www.engadget.com/freebot-modular-robot-215021382.html)
 
-* <strong>TechXplore</strong>: [Magnetic FreeBOT balls make giant leap for robotics.](https://techxplore.com/news/2020-11-magnetic-freebot-balls-giant-robotics.html)
+* <strong>TechXplore</strong>: [Magnetic FreeBOT balls make giant leap for robotics.](https://techxplore.com/news/2020-11-magnetic-freebot-balls-gianT-RObotics.html)
 
 * <strong>DeepTech</strong>: [《超能陆战队》磁性球体机器人成真？中国内地高校近十年来首获机器人顶会IROS最佳论文奖](https://mp.weixin.qq.com/s/NzLRS9Hhun1nba79GGH9jg)
 
@@ -70,7 +70,7 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 # Service
 
-Reviewers:
+<strong>Reviewer</strong>
 
 * International Journal of Robotics Research (IJRR)
 
