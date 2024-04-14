@@ -4,7 +4,11 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
  
 # News
 
-[10/2023] Our work “DISG” is reported by [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D)! 
+[11/2023] Achieved First Prize in the SSE Doctoral Research Award.
+
+[10/2023] Received the Excellent Poster Award at the Graduate Research Forum of The Chinese University of Hong Kong, Shenzhen.
+
+[10/2023] Our work "DISG" was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D)! 
 
 [08/2023] One paper accepted by IEEE Transactions on Robotics(T-RO)!
 
@@ -14,7 +18,7 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 [02/2022] Two papers accepted by IEEE International Conference on Robotics and Automation(ICRA) 2022!
 
-[10/2021] I was selected for AIRS Talent PhD Research Program 2021.
+[10/2021] Selected for the AIRS Talent PhD Research Program 2021.
 
 
 
