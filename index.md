@@ -76,6 +76,8 @@ Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https:/
 
 <strong>Reviewer</strong>
 
+* Science Robotics (SR)
+
 * International Journal of Robotics Research (IJRR)
 
 * IEEE Transactions on Robotics (T-RO)
