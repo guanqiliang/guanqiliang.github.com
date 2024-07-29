@@ -6,8 +6,6 @@ Hello, I am a robotics researcher with the research interest in modular robotics
 
 [07/2024] I successfully defended my PhD!
 
-[07/2024] Awarded the IEEE RAS Travel Grant for IROS2024.
-
 [11/2023] Achieved First Prize in the SSE Doctoral Research Award.
 
 [10/2023] Received the Excellent Poster Award at the Graduate Research Forum of The Chinese University of Hong Kong, Shenzhen.
