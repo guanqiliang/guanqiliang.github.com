@@ -1,8 +1,10 @@
 # Home
 
-Hello, I am a 5th year Ph.D candidate, supervised by [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) in The Chinese University of Hong Kong (Shenzhen). My current research interests include <strong>Modular Robotics</strong> and <strong>Reconfigurable Robotics</strong>.
+Hello, I am a robotics researcher with a research interest in modular robotics. I obtained my Ph.D. from the Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) . Prior to that, I completed my undergraduate degree at the China University of Mining and Technology.
  
 # News
+
+[07/2024] I successfully defended my PhD!
 
 [07/2024] Awarded the IEEE RAS Travel Grant for IROS2024.
 
