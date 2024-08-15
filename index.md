@@ -50,6 +50,8 @@ Hello, I am a robotics researcher with the research interest in modular robotics
 
 # Awards
 
+* <strong>Best Poster Award</strong>, The 5th Annual Conference of the China Robotics Society, 2024
+ 
 * <strong>AIRS Talent PhD Scholarship</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
 
 * <strong>AIRS Talent PhD Scholarship</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
