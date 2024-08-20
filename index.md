@@ -4,7 +4,7 @@ Hello, I am a robotics researcher with the research interest in modular robotics
  
 # News
 
-[08/2024] One paper accepted by International Journal of Robotics Research(IJRR)!
+[08/2024] One paper accepted by International Journal of Robotics Research (IJRR)!
 
 [08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society（中国机器人学术年会最佳海报奖）.
 
@@ -16,13 +16,13 @@ Hello, I am a robotics researcher with the research interest in modular robotics
 
 [10/2023] Our work "DISG" was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D)! 
 
-[08/2023] One paper accepted by IEEE Transactions on Robotics(T-RO)!
+[08/2023] One paper accepted by IEEE Transactions on Robotics (T-RO)!
 
 [06/2023] One paper accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2023!
 
-[07/2022] One paper accepted by IEEE Transactions on Robotics(T-RO)!
+[07/2022] One paper accepted by IEEE Transactions on Robotics (T-RO)!
 
-[02/2022] Two papers accepted by IEEE International Conference on Robotics and Automation(ICRA) 2022!
+[02/2022] Two papers accepted by IEEE International Conference on Robotics and Automation (ICRA) 2022!
 
 [10/2021] Selected for the AIRS Talent PhD Research Program 2021.
 
