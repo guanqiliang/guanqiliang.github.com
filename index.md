@@ -18,7 +18,7 @@ Hello, I am a robotics researcher with the research interest in modular robotics
 
 [08/2023] One paper accepted by IEEE Transactions on Robotics (T-RO)!
 
-[06/2023] One paper accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2023!
+[06/2023] One paper accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023!
 
 [07/2022] One paper accepted by IEEE Transactions on Robotics (T-RO)!
 
