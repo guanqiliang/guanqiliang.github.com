@@ -4,7 +4,7 @@ Hello, I am a robotics researcher with the research interest in modular robotics
  
 # News
 
-[08/2024] One paper accepted by International Journal of Robotics Research (IJRR)!
+[08/2024] Two papers accepted by International Journal of Robotics Research (IJRR)!
 
 [08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society（中国机器人学术年会最佳海报奖）.
 
@@ -31,6 +31,8 @@ Hello, I am a robotics researcher with the research interest in modular robotics
 # Publications
 
 * <strong><u>Guanqi Liang</u></strong>, Di Wu, Yuxiao Tu, Tin Lun Lam, "Decoding Modular Reconfigurable Robots: A Survey on Mechanisms and Design," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2024.
+
+* Di Wu, <strong><u>Guanqi Liang</u></strong>, Yuxiao Tu, Lijun Zong, Tin Lun Lam, "Linear-Time Quasi-Static Stability Detection for Modular Reconfigurable Robots," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2024.
 
 * <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
 
