@@ -4,6 +4,8 @@ Hello, I am a robotics researcher with the research interest in modular robotics
  
 # News
 
+[01/2025] I am invited to serve as an Associate Editor for IROS 2025.
+
 [08/2024] Two papers accepted by International Journal of Robotics Research (IJRR)!
 
 [08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society（中国机器人学术年会最佳海报奖）.
