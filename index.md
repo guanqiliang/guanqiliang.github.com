@@ -95,6 +95,8 @@ Hello, I am a robotics researcher with the research interest in modular robotics
   
 * IEEE/ASME Transactions on Mechatronics (T-MECH)
   
+* Autonomous Robots (AURO)
+  
 * Journal of Field Robotics (JFR)
 
 * IEEE Robotics and Automation Letters (RA-L)
