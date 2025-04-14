@@ -1,6 +1,6 @@
 # Home
 
-Hello, I am a robotics researcher with the research interest in modular robotics. I obtained my Ph.D. from the Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) . Prior to that, I completed my undergraduate degree at the China University of Mining and Technology.
+Hello, I'm a robotics researcher with the interest in modular robotics. I received my Ph.D. from the Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) .
  
 # News
 
