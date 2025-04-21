@@ -4,6 +4,8 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
  
 # News
 
+[04/2025] I am selected for the RSS Pioneers 2025.
+
 [01/2025] I am invited to serve as an Associate Editor for IROS 2025.
 
 [01/2025] Two papers accepted by IEEE International Conference on Robotics and Automation (ICRA) 2025!
