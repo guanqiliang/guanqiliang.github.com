@@ -57,11 +57,13 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 
 # Awards
 
+* <strong>RSS Pioneer</strong>, RSS, 2025
+  
 * <strong>Best Poster Award</strong>, The 5th Annual Conference of the China Robotics Society, 2024
  
-* <strong>AIRS Talent PhD Scholarship</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
+* <strong>AIRS Talent PhD Fellowships</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
 
-* <strong>AIRS Talent PhD Scholarship</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
+* <strong>AIRS Talent PhD Fellowships</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
 
 * <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, IROS, 2020
 
@@ -86,6 +88,10 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 * <strong>机器人大讲堂</strong>: [现实版《超能陆战队》：港中深「新型自重构机器人」获IROS最佳机器人设计提名](https://mp.weixin.qq.com/s/Knbd47iNVu5qtmXGJRuWSQ)
 
 # Service
+
+<strong>Reviewer</strong>
+
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 <strong>Reviewer</strong>
 
