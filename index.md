@@ -59,7 +59,7 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 
 * <strong>RSS Pioneer</strong>, RSS, 2025
   
-* <strong>Best Poster Award</strong>, The 5th Annual Conference of the China Robotics Society, 2024
+* <strong>Best Poster Award</strong>,  Annual Conference of the China Robotics Society, 2024
  
 * <strong>AIRS Talent PhD Fellowships</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
 
