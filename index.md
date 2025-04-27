@@ -89,7 +89,7 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 
 # Service
 
-<strong>Reviewer</strong>
+<strong>Associate Editor</strong>
 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
