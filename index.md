@@ -59,7 +59,7 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 
 # Awards
 
-* <strong>RSS Pioneer</strong>, RSS, 2025
+* <strong>RSS Pioneer</strong>, Robotics: Science and Systems (RSS), 2025
   
 * <strong>DAAD AInet Fellowship</strong>, Deutscher Akademischer Austauschdienst, Germany, 2025
   
