@@ -4,6 +4,8 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
  
 # News
 
+[05/2025] One paper accepted by IEEE/ASME Transactions on Mechatronics (T-MECH)!
+
 [04/2025] I am awarded the DAAD AInet Fellowship for 2025.
 
 [04/2025] I am selected for the [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/).
