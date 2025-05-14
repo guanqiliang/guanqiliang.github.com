@@ -35,6 +35,8 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 
 # Publications
 
+* <strong><u>Guanqi Liang</u></strong>, Rong Ou, Yuxiao Tu, Di Wu, Tin Lun Lam, "S-DISG: Position and Torque Sensing for Driving Integrated Spherical Gear," <strong><i> IEEE/ASME Transactions on Mechatronics (T-MECH)</i></strong>, 2025.
+
 * <strong><u>Guanqi Liang</u></strong>, Di Wu, Yuxiao Tu, Tin Lun Lam, "Decoding Modular Reconfigurable Robots: A Survey on Mechanisms and Design," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2024.
 
 * Di Wu, <strong><u>Guanqi Liang</u></strong>, Yuxiao Tu, Lijun Zong, Tin Lun Lam, "Linear-Time Quasi-Static Stability Detection for Modular Reconfigurable Robots," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2024.
