@@ -18,6 +18,8 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 
 [08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society（中国机器人学术年会最佳海报奖）.
 
+[07/2024] I successfully defended my PhD.
+
 [11/2023] Achieved First Prize in the SSE Doctoral Research Award.
 
 [10/2023] Received the Excellent Poster Award at the Graduate Research Forum of The Chinese University of Hong Kong, Shenzhen.
