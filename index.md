@@ -1,6 +1,6 @@
 # Home
 
-Hello, I'm a robotics researcher with the interest in modular robotics. under the supervision of [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) .I received my Ph.D. from the Chinese University of Hong Kong, Shenzhen, 
+Hello, I'm a robotics researcher with the interest in modular robotics. under the supervision of [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) .
  
 # News
 
