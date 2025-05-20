@@ -1,6 +1,6 @@
 # Home
 
-Hello, I'm a robotics researcher with the interest in modular robotics. under the supervision of [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) .
+Hello, I'm a robotics researcher with the interest in modular robotics. under the supervision of [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) . 
  
 # News
 
