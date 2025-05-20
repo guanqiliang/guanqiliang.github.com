@@ -1,6 +1,6 @@
 # Home
 
-Hello, I'm a robotics researcher with the interest in modular robotics. under the supervision of [Prof. Tin Lun LAM](https://sites.google.com/site/lamtinlun) . 
+Hello, I'm a robotics researcher with the interest in modular robotics. 
  
 # News
 
@@ -17,8 +17,6 @@ Hello, I'm a robotics researcher with the interest in modular robotics. under th
 [08/2024] Two papers accepted by International Journal of Robotics Research (IJRR)!
 
 [08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society（中国机器人学术年会最佳海报奖）.
-
-[07/2024] I successfully defended my PhD.
 
 [11/2023] Achieved First Prize in the SSE Doctoral Research Award.
 
