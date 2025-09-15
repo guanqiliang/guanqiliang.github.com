@@ -4,39 +4,39 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
  
 # News
 
-[08/2025] I am invited to serve as an Associate Editor for ICRA 2026.
+[08/2025] Invited to serve as an Associate Editor for ICRA 2026.
 
-[07/2025] One paper accepted by International Journal of Robotics Research (IJRR)!
+[07/2025] One paper accepted to the International Journal of Robotics Research (IJRR)!
 
-[05/2025] One paper accepted by IEEE/ASME Transactions on Mechatronics (T-MECH)!
+[05/2025] One paper accepted to IEEE/ASME Transactions on Mechatronics (T-MECH).
 
-[05/2025] Received the [ICRA Best Paper Award Finalists](https://2025.ieee-icra.org/program/awards-and-finalists/).
+[05/2025] Selected as an [ICRA Best Paper Award Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/).
 
-[04/2025] I am awarded the DAAD AInet Fellowship for 2025.
+[04/2025] Awarded the DAAD AInet Fellowship 2025.
 
-[04/2025] I am selected for the [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/).
+[04/2025] Selected as a [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/).
 
-[01/2025] I am invited to serve as an Associate Editor for IROS 2025.
+[01/2025] Invited to serve as an Associate Editor for IROS 2025.
 
-[01/2025] Two papers accepted by IEEE International Conference on Robotics and Automation (ICRA) 2025!
+[01/2025] Two papers accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025.
 
-[08/2024] Two papers accepted by International Journal of Robotics Research (IJRR)!
+[08/2024] Two papers accepted to the International Journal of Robotics Research (IJRR).
 
-[08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society（中国机器人学术年会最佳海报奖）.
+[08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society (中国机器人学术年会最佳海报奖).
 
-[07/2024] I successfully defended my PhD.
+[07/2024] Successfully defended my PhD dissertation.
 
-[11/2023] Achieved First Prize in the SSE Doctoral Research Award.
+[11/2023] Awarded First Prize in the SSE Doctoral Research Award.
 
 [10/2023] Received the Excellent Poster Award at the Graduate Research Forum of The Chinese University of Hong Kong, Shenzhen.
 
-[10/2023] Our work "DISG" was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D)! 
+[10/2023] Our work “DISG” was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D)! 
 
-[08/2023] One paper accepted by IEEE Transactions on Robotics (T-RO)!
+[08/2023] One paper accepted to IEEE Transactions on Robotics (T-RO).
 
-[06/2023] One paper accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023!
+[06/2023] One paper accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.
 
-[07/2022] One paper accepted by IEEE Transactions on Robotics (T-RO)!
+[07/2022] One paper accepted to IEEE Transactions on Robotics (T-RO).
 
 
 # Publications
