@@ -111,6 +111,8 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 <strong>Associate Editor</strong>
 
+* IEEE International Conference on Robotics and Automation (ICRA)
+
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 <strong>Reviewer</strong>
