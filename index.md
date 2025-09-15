@@ -77,6 +77,8 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * <strong>RSS Pioneer</strong>, Robotics: Science and Systems (RSS), 2025
   
+* <strong>ICRA Best Paper Award Finalist</strong>, ICRA, 2025
+  
 * <strong>DAAD AInet Fellowship</strong>, Deutscher Akademischer Austauschdienst, Germany, 2025
   
 * <strong>Best Poster Award</strong>,  Annual Conference of the China Robotics Society, 2024
