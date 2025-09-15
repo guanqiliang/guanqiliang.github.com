@@ -45,12 +45,13 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
   
 * <strong><u>Guanqi Liang</u></strong>, Rong Ou, Yuxiao Tu, Di Wu, Tin Lun Lam, "S-DISG: Position and Torque Sensing for Driving Integrated Spherical Gear," <strong><i> IEEE/ASME Transactions on Mechatronics (T-MECH)</i></strong>, 2025.
 
+
+* <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
+* 
 * Yuxiao Tu, <strong><u>Guanqi Liang</u></strong>, Di Wu, Xinzhuo Li, Tin Lun Lam, "Locomotion and self-reconfiguration autonomy for spherical freeform modular robots
 ," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2025.
 
 * Di Wu, <strong><u>Guanqi Liang</u></strong>, Yuxiao Tu, Lijun Zong, Tin Lun Lam, "Linear-Time Quasi-Static Stability Detection for Modular Reconfigurable Robots," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2025.
-
-* <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
 
 * Lijun Zong, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, "Kinematics Modeling and Control of Spherical Rolling Contact Joint and Manipulator," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
 
