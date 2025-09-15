@@ -6,6 +6,8 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 
 [08/2025] I am invited to serve as an Associate Editor for ICRA 2026.
 
+[07/2025] One paper accepted by International Journal of Robotics Research (IJRR)!
+
 [05/2025] One paper accepted by IEEE/ASME Transactions on Mechatronics (T-MECH)!
 
 [04/2025] I am awarded the DAAD AInet Fellowship for 2025.
