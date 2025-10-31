@@ -24,7 +24,7 @@ Hello, I am currently a researcher at the University of Hamburg, working in coll
 
 [08/2024] One papers accepted to International Journal of Robotics Research (IJRR).
 
-[08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society (中国机器人学术年会最佳海报奖).
+[08/2024] Received the Best Poster Award at the Annual Conference of the China Robotics Society (中国机器人学术年会最佳海报奖).
 
 [07/2024] Successfully defended my PhD dissertation.
 
@@ -73,7 +73,7 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 # Awards
 
-* <strong>RSS Pioneer</strong>, Robotics: Science and Systems (RSS), 2025
+* <strong>RSS Pioneers</strong>, Robotics: Science and Systems (RSS), 2025
   
 * <strong>ICRA Best Paper Award Finalist</strong>, ICRA, 2025
   
