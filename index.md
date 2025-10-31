@@ -1,12 +1,12 @@
 # Home
 
-Hello, I'm a robotics researcher with the interest in modular robotics. I received my Ph.D. from the Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tin Lun Lam](https://sites.google.com/site/lamtinlun). 
+Hello, I am currently a researcher at the University of Hamburg, working in collaboration with [Professor Jianwei Zhang](https://sites.google.com/site/lamtinlun). I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tin Lun Lam](https://sites.google.com/site/lamtinlun). My research interests focus on modular robotics and multimodal systems.
  
 # News
 
 [08/2025] Invited to serve as an Associate Editor for ICRA 2026.
 
-[07/2025] One paper accepted to the International Journal of Robotics Research (IJRR)!
+[07/2025] One paper accepted to International Journal of Robotics Research (IJRR)!
 
 [05/2025] One paper accepted to IEEE/ASME Transactions on Mechatronics (T-MECH).
 
@@ -20,15 +20,13 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 
 [01/2025] Two papers accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025.
 
-[08/2024] Two papers accepted to the International Journal of Robotics Research (IJRR).
+[09/2024] One papers accepted to International Journal of Robotics Research (IJRR).
+
+[08/2024] One papers accepted to International Journal of Robotics Research (IJRR).
 
 [08/2024] Received the Best Poster Award at the 5th Annual Conference of the China Robotics Society (中国机器人学术年会最佳海报奖).
 
 [07/2024] Successfully defended my PhD dissertation.
-
-[11/2023] Awarded First Prize in the SSE Doctoral Research Award.
-
-[10/2023] Received the Excellent Poster Award at the Graduate Research Forum of The Chinese University of Hong Kong, Shenzhen.
 
 [10/2023] Our work “DISG” was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D)! 
 
@@ -39,7 +37,7 @@ Hello, I'm a robotics researcher with the interest in modular robotics. I receiv
 [07/2022] One paper accepted to IEEE Transactions on Robotics (T-RO).
 
 
-# Publications
+# Selected Publications
 
 * <strong><u>Guanqi Liang</u></strong>, Di Wu, Yuxiao Tu, Tin Lun Lam, "Decoding Modular Reconfigurable Robots: A Survey on Mechanisms and Design," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2025.
   
@@ -61,15 +59,15 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * Lijun Zong, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, "Kinematics Modeling and Control of Spherical Rolling Contact Joint and Manipulator," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
 
+* Yuming Liu, Qiu Zheng, Yuxiao Tu, Yuan Gao, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, “Configuration-Adaptive Visual Relative Localization for Spherical Modular Self-Reconfigurable Robots,” <strong><i>Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. [[ICRA Best Conference Paper Award Finalist]](https://2025.ieee-icra.org/program/awards-and-finalists/)
+
+* Peiqi Wang*, <strong><u>Guanqi Liang*</u></strong>, Da Zhao, Tin Lun Lam, “Enhancing Connection Strength in Freeform Modular Reconfigurable Robots through Holey Sphere and Gripper Mechanisms,” <strong><i>Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. 
+  
 * Rong Ou*, <strong><u>Guanqi Liang*</u></strong>, Tin Lun Lam, "FPECMV: Learning-based Fault-Tolerant Collaborative Localization under Limited Connectivity," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></strong>, 2023
  
 * Yuxiao Tu, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam*, "FreeSN: A Freeform Strut-node Structured Modular Self-reconfigurable Robot - Design and Implementation," <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2022.
  
 * Yuxiao Tu, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam*, "Graph Convolutional Network based Configuration Detection for Freeform Modular Robot Using Magnetic Sensor Array," <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2021.
-
-* Junjie Hu, Xiyue Guo, Junfeng Chen, <strong><u>Guanqi Liang</u></strong>, Fuqin Deng, Tin Lun Lam, "A Two-stage Unsupervised Approach for Low Light Image Enhancement," <strong><i>IEEE Robotics and Automation Letters</i></strong>, 2021.
-
-* Haobo Luo, Ming Li, <strong><u>Guanqi Liang</u></strong>, Huihuan Qian, Tin Lun Lam, "An Obstacle-crossing Strategy Based on the Fast Self-reconfiguration for Modular Sphere Robots," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></strong>, 2020.
 
 * Ming Li, <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Huihuan Qian, Tin Lun Lam, "Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></strong>, 2020.
 
