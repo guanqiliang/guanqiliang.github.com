@@ -1,6 +1,6 @@
 # Home
 
-Hello, I am currently a researcher at the University of Hamburg, working in collaboration with [Professor Jianwei Zhang](https://sites.google.com/site/lamtinlun). I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tin Lun Lam](https://sites.google.com/site/lamtinlun). My research interests focus on modular robotics and multimodal systems.
+Hello, I am currently a researcher at the University of Hamburg, working in collaboration with [Prof. Jianwei Zhang](https://sites.google.com/site/lamtinlun). I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tin Lun Lam](https://sites.google.com/site/lamtinlun). My research interests focus on modular robotics and multimodal systems.
  
 # News
 
@@ -59,9 +59,9 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * Lijun Zong, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, "Kinematics Modeling and Control of Spherical Rolling Contact Joint and Manipulator," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
 
-* Yuming Liu, Qiu Zheng, Yuxiao Tu, Yuan Gao, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, “Configuration-Adaptive Visual Relative Localization for Spherical Modular Self-Reconfigurable Robots,” <strong><i>Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. [[ICRA Best Conference Paper Award Finalist]](https://2025.ieee-icra.org/program/awards-and-finalists/)
+* Yuming Liu, Qiu Zheng, Yuxiao Tu, Yuan Gao, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, “Configuration-Adaptive Visual Relative Localization for Spherical Modular Self-Reconfigurable Robots,” <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. [[ICRA Best Conference Paper Award Finalist]](https://2025.ieee-icra.org/program/awards-and-finalists/)
 
-* Peiqi Wang*, <strong><u>Guanqi Liang*</u></strong>, Da Zhao, Tin Lun Lam, “Enhancing Connection Strength in Freeform Modular Reconfigurable Robots through Holey Sphere and Gripper Mechanisms,” <strong><i>Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. 
+* Peiqi Wang*, <strong><u>Guanqi Liang*</u></strong>, Da Zhao, Tin Lun Lam, “Enhancing Connection Strength in Freeform Modular Reconfigurable Robots through Holey Sphere and Gripper Mechanisms,” <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. 
   
 * Rong Ou*, <strong><u>Guanqi Liang*</u></strong>, Tin Lun Lam, "FPECMV: Learning-based Fault-Tolerant Collaborative Localization under Limited Connectivity," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></strong>, 2023
  
