@@ -6,7 +6,7 @@ Hello, I am currently a researcher with the TAMS Group at the University of Hamb
 
 [08/2025] Invited to serve as an Associate Editor for ICRA 2026.
 
-[07/2025] One paper accepted to International Journal of Robotics Research (IJRR)!
+[07/2025] One paper accepted to International Journal of Robotics Research (IJRR).
 
 [05/2025] One paper accepted to IEEE/ASME Transactions on Mechatronics (T-MECH).
 
@@ -31,8 +31,6 @@ Hello, I am currently a researcher with the TAMS Group at the University of Hamb
 [10/2023] Our work “DISG” was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D)! 
 
 [08/2023] One paper accepted to IEEE Transactions on Robotics (T-RO).
-
-[06/2023] One paper accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.
 
 [07/2022] One paper accepted to IEEE Transactions on Robotics (T-RO).
 
