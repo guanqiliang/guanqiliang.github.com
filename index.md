@@ -1,6 +1,6 @@
 # Home
 
-Hello, I am currently a researcher with the TAMS Group at the University of Hamburg, led by [Prof. Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/). I earned my Ph.D. from The Chinese University of Hong Kong, Shenzhen, in 2024, where I was supervised by [Prof. Tin Lun Lam](https://sites.google.com/site/lamtinlun). My research interests focus on modular robotics and multimodal systems.
+Hello, I am currently a researcher with the TAMS Group at the University of Hamburg, led by [Prof. Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/). I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, in 2024, where I was supervised by [Prof. Tin Lun Lam](https://sites.google.com/site/lamtinlun). My research interests focus on modular robotics and multimodal systems.
  
 # News
 
