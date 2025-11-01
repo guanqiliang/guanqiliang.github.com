@@ -12,6 +12,27 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      .social-links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        margin: 15px 0;
+        flex-wrap: wrap;
+      }
+      .social-links a {
+        text-decoration: none;
+        color: inherit;
+        transition: color 0.3s ease;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+      .social-links a:hover {
+        color: #0366d6;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -27,9 +48,21 @@
         {% if site.github.is_user_page %}
           <p height:3px> </p>
           <h2> </h2>
-          <!-- 修改后的 Google Scholar 和 Email 链接，带图标 -->
-          <h4><a href="https://scholar.google.com.hk/citations?user=2jk0UqAAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a></h4>
-          <h4><a href="mailto:guanqiliang@link.cuhk.edu.cn"><i class="fas fa-envelope"></i> Email: guanqiliang'at'link.cuhk.edu.cn</a></h4>
+          <!-- 修改后的社交链接，三个图标在同一行，等间距分布 -->
+          <div class="social-links">
+            <a href="https://scholar.google.com.hk/citations?user=2jk0UqAAAAAJ" target="_blank" title="Google Scholar">
+              <i class="fas fa-graduation-cap"></i>
+              <span>Scholar</span>
+            </a>
+            <a href="mailto:guanqiliang@link.cuhk.edu.cn" title="Email">
+              <i class="fas fa-envelope"></i>
+              <span>Email</span>
+            </a>
+            <a href="https://www.linkedin.com/in/gqliang" target="_blank" title="LinkedIn">
+              <i class="fab fa-linkedin"></i>
+              <span>LinkedIn</span>
+            </a>
+          </div>
         {% endif %}
         
         {% if site.show_downloads %}
