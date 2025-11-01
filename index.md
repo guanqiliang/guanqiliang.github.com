@@ -10,7 +10,7 @@ Hello, I am currently a researcher with the TAMS Group at the University of Hamb
 
 [05/2025] One paper accepted to IEEE/ASME Transactions on Mechatronics (T-MECH).
 
-[05/2025] Selected as an [ICRA Best Paper Award Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/).
+[05/2025] Our paper was honored as an [ICRA Best Paper Award Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/).
 
 [04/2025] Awarded the DAAD AInet Fellowship 2025.
 
