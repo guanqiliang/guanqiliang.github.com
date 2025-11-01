@@ -59,7 +59,7 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * Lijun Zong, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, "Kinematics Modeling and Control of Spherical Rolling Contact Joint and Manipulator," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
 
-* Yuming Liu, Qiu Zheng, Yuxiao Tu, Yuan Gao, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, “Configuration-Adaptive Visual Relative Localization for Spherical Modular Self-Reconfigurable Robots,” <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. [[ICRA Best Conference Paper Award Finalist]](https://2025.ieee-icra.org/program/awards-and-finalists/)
+* Yuming Liu, Qiu Zheng, Yuxiao Tu, Yuan Gao, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, “Configuration-Adaptive Visual Relative Localization for Spherical Modular Self-Reconfigurable Robots,” <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. [[ICRA Best Paper Award Finalist]](https://2025.ieee-icra.org/program/awards-and-finalists/)
 
 * Peiqi Wang*, <strong><u>Guanqi Liang*</u></strong>, Da Zhao, Tin Lun Lam, “Enhancing Connection Strength in Freeform Modular Reconfigurable Robots through Holey Sphere and Gripper Mechanisms,” <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. 
   
@@ -76,7 +76,9 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 * <strong>RSS Pioneers</strong>, Robotics: Science and Systems (RSS), 2025
   
 * <strong>ICRA Best Paper Award Finalist</strong>, ICRA, 2025
-  
+
+* <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, IROS, 2020
+
 * <strong>DAAD AInet Fellowship</strong>, Deutscher Akademischer Austauschdienst, Germany, 2025
   
 * <strong>Best Poster Award</strong>,  Annual Conference of the China Robotics Society, 2024
@@ -84,8 +86,6 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 * <strong>AIRS Talent PhD Fellowships</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2021
 
 * <strong>AIRS Talent PhD Fellowships</strong>, Shenzhen Institute of Artificial Intelligence and Robotics for Society, 2020
-
-* <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, IROS, 2020
 
 * <strong>National Scholarship</strong>, Ministry of Education, China, 2018
 
