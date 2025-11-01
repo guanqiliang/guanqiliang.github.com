@@ -7,6 +7,8 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- 引入 Font Awesome 图标库 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -25,8 +27,9 @@
         {% if site.github.is_user_page %}
           <p height:3px> </p>
           <h2> </h2>
-          <h4>[Google Scholar](https://scholar.google.com.hk/citations?user=2jk0UqAAAAAJ) <h4/>
-          <h4>Email: guanqiliang'at'link.cuhk.edu.cn</h4>
+          <!-- 修改后的 Google Scholar 和 Email 链接，带图标 -->
+          <h4><a href="https://scholar.google.com.hk/citations?user=2jk0UqAAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a></h4>
+          <h4><a href="mailto:guanqiliang@link.cuhk.edu.cn"><i class="fas fa-envelope"></i> Email: guanqiliang'at'link.cuhk.edu.cn</a></h4>
         {% endif %}
         
         {% if site.show_downloads %}
