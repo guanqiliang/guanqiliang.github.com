@@ -12,8 +12,6 @@ Hello, I am currently a researcher with the TAMS Group at the University of Hamb
 
 [05/2025] Our paper was honored as an [ICRA Best Paper Award Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/).
 
-[04/2025] Awarded the DAAD AInet Fellowship 2025.
-
 [04/2025] Selected as a [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/).
 
 [01/2025] Invited to serve as an Associate Editor for IROS 2025.
@@ -76,8 +74,6 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 * <strong>ICRA Best Paper Award Finalist</strong>, ICRA, 2025
 
 * <strong>IROS Best Paper Award on Robot Mechanisms and Design</strong>, IROS, 2020
-
-* <strong>DAAD AInet Fellowship</strong>, Deutscher Akademischer Austauschdienst, Germany, 2025
   
 * <strong>Best Poster Award</strong>,  Annual Conference of the China Robotics Society, 2024
  
