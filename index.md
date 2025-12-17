@@ -12,7 +12,7 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
 
 [05/2025] Our paper was honored as an [ICRA Best Paper Award Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/).
 
-[04/2025] Selected as a [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/).
+[04/2025] Selected as a [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/participants#:~:text=Fluid%20Environment%20Interactions-,Guanqi%20Liang,-Chinese%20University%20of).
 
 [01/2025] Invited to serve as an Associate Editor for IROS 2025.
 
