@@ -109,9 +109,9 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * Freeform Modular Robots: Reconfigurability via Swarm Spheres, RSS Pioneers, Los Angeles, Jun 2025
 
-* Freeform Cellular Robots, XJTLU, Suzhou, Feb 2025
+* Freeform Cellular Robots, Xi'an Jiaotong-Liverpool University, Feb 2025
 
-* Freeform Modular Reconfigurable Robots, Hunan University, Changsha, Dec 2024
+* Freeform Modular Reconfigurable Robots, Hunan University, Dec 2024
 
 * DISG: Driving-Integrated Spherical Gear for Full-Range Motion, IROS, Abu Dhabi, Oct 2024
   
