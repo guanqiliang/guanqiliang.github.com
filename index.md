@@ -101,6 +101,28 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * <strong>机器人大讲堂</strong>: [现实版《超能陆战队》：港中深「新型自重构机器人」获IROS最佳机器人设计提名](https://mp.weixin.qq.com/s/Knbd47iNVu5qtmXGJRuWSQ)
 
+# Talks
+
+* Collaborative Visual Localization for Modular Self-Reconfigurable Robots, TAMS Seminar, Hamburg, Dec 2025
+
+* Freeform Modular Robots: Reconfigurability via Swarm Spheres, Texas A&M University, Nov 2025
+
+* Freeform Modular Robots: Reconfigurability via Swarm Spheres, RSS Pioneers, Los Angeles, Jun 2025
+
+* Freeform Cellular Robots: Design, Modeling, Sensing and Control, XJTLU, Suzhou, Feb 2025
+
+* Freeform Cellular Robots: Design, Modeling, Sensing and Control, TAMS Seminar, Hamburg, Oct 2024
+
+* Freeform Cellular Robots: Design, Modeling, Sensing and Control, Hunan University, Hunan, Dec 2024
+
+* DISG: Driving-Integrated Spherical Gear for Full-Range Motion, IROS, Abu Dhabi, Oct 2024
+
+* MultiRobotLearn: Open-Source Multi-Robot RL Framework, ROBIO, Koh Samui, Dec 2023
+
+* Energy Sharing Mechanism for Freeform Robotic System, ICRA, Philadelphia, May 2022
+
+* FreeBOT: A Freeform Modular Robot with Arbitrary Connection, IROS, Las Vegas, Oct 2020
+
 # Service
 
 <strong>Associate Editor</strong>
