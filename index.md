@@ -111,11 +111,11 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * Freeform Cellular Robots: Design, Modeling, Sensing and Control, XJTLU, Suzhou, Feb 2025
 
-* Freeform Cellular Robots: Design, Modeling, Sensing and Control, TAMS Seminar, Hamburg, Oct 2024
-
 * Freeform Cellular Robots: Design, Modeling, Sensing and Control, Hunan University, Hunan, Dec 2024
 
 * DISG: Driving-Integrated Spherical Gear for Full-Range Motion, IROS, Abu Dhabi, Oct 2024
+* 
+* Freeform Cellular Robots: Design, Modeling, Sensing and Control, TAMS Seminar, Hamburg, Oct 2024
 
 * MultiRobotLearn: Open-Source Multi-Robot RL Framework, ROBIO, Koh Samui, Dec 2023
 
