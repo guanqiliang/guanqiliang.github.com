@@ -4,7 +4,7 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
  
 # News
 
-[08/2025] Invited to serve as an Associate Editor for IEEE Robotics and Automation Letters (RA-L).
+[01/2026] Invited to serve as an Associate Editor for IEEE Robotics and Automation Letters (RA-L).
 
 [08/2025] Invited to serve as an Associate Editor for ICRA 2026.
 
