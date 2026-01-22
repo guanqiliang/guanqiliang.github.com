@@ -165,7 +165,11 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 
 <p align="center">
-  <img
-    src="https://mapmyvisitors.com/map.png?d=vCJAunC3IhCw7cKST7YVWEFqazLGMIvrjfqK3keef0Q&cl=0e1117&w=400"
-  />
+  <a href="https://mapmyvisitors.com/web/1c20d" target="_blank" rel="noreferrer">
+    <img
+      src="https://mapmyvisitors.com/map.png?d=2u7jSUBQv3I_MHTkjwZQc4Prm-15ffy9g7OxracQdt4&cl=ffffff&w=1600"
+      width="420"
+      alt="Visitors Map"
+    />
+  </a>
 </p>
