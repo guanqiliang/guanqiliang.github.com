@@ -129,13 +129,15 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 # Service
 
-<strong>Associate Editor</strong>
+<strong>Editorial Service</strong>
 
-* IEEE Robotics and Automation Letters (RA-L)
+* Associate Editor, IEEE Robotics and Automation Letters (RA-L)
+  
+* Youth Editor, SmartBot
 
-* IEEE International Conference on Robotics and Automation (ICRA)
+* Associate Editor, IEEE International Conference on Robotics and Automation (ICRA)
 
-* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+* Associate Editor, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 <strong>Reviewer</strong>
 
