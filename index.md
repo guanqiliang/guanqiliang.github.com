@@ -46,7 +46,7 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
 * <strong><u>Guanqi Liang</u></strong>, Di Wu, Yuxiao Tu, Tin Lun Lam, "Decoding Modular Reconfigurable Robots: A Survey on Mechanisms and Design," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2025.
   
 * <strong><u>Guanqi Liang</u></strong>, Lijun Zong, Tin Lun Lam, "DISG: Driving-Integrated Spherical Gear Enables Singularity-Free Full-Range Joint Motion," <strong><i>IEEE Transactions on Robotics (T-RO)</i></strong>, 2023.
-* 
+  
 * <strong><u>Guanqi Liang</u></strong>, Rong Ou, Yuxiao Tu, Di Wu, Tin Lun Lam, "S-DISG: Position and Torque Sensing for Driving Integrated Spherical Gear," <strong><i> IEEE/ASME Transactions on Mechatronics (T-MECH)</i></strong>, 2025.
 
 * <strong><u>Guanqi Liang</u></strong>, "Freeform Modular Robots: Reconfigurability via Swarm Spheres," <strong><i>Robotics:
