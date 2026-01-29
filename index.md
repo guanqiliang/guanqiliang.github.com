@@ -4,6 +4,8 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
  
 # News
 
+[01/2026] One paper accepted to Science Robotics.
+
 [01/2026] Appointed as Youth Editor for SmartBot.
 
 [01/2026] Appointed as Associate Editor for IEEE Robotics and Automation Letters (RA-L).
@@ -39,6 +41,8 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
 
 # Selected Publications
 
+* <strong><u>Guanqi Liang</u></strong>, Auke Jan Ijspeert, Mark Yim, Tin Lun Lam, "Modular Reconfigurable Robots: Towards On-Demand Multifunctional Applications," <strong><i>Science Robotics</i></strong>, 2026.
+  
 * <strong><u>Guanqi Liang</u></strong>, Di Wu, Yuxiao Tu, Tin Lun Lam, "Decoding Modular Reconfigurable Robots: A Survey on Mechanisms and Design," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2025.
   
 * <strong><u>Guanqi Liang</u></strong>, Rong Ou, Yuxiao Tu, Di Wu, Tin Lun Lam, "S-DISG: Position and Torque Sensing for Driving Integrated Spherical Gear," <strong><i> IEEE/ASME Transactions on Mechatronics (T-MECH)</i></strong>, 2025.
