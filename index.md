@@ -4,6 +4,8 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
  
 # News
 
+[02/2026] One paper accepted to Advanced Intelligent Systems.
+
 [01/2026] One paper accepted to Science Robotics.
 
 [01/2026] Appointed as Youth Editor for SmartBot.
