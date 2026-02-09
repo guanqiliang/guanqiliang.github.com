@@ -69,9 +69,9 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * Yuming Liu, Qiu Zheng, Yuxiao Tu, Yuan Gao, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, “Configuration-Adaptive Visual Relative Localization for Spherical Modular Self-Reconfigurable Robots,” <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. [[ICRA Best Paper Award Finalist]](https://2025.ieee-icra.org/program/awards-and-finalists/)
 
-* Peiqi Wang*, <strong><u>Guanqi Liang*</u></strong>, Da Zhao, Tin Lun Lam, “Enhancing Connection Strength in Freeform Modular Reconfigurable Robots through Holey Sphere and Gripper Mechanisms,” <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. 
+* Peiqi Wang, <strong><u>Guanqi Liang</u></strong>, Da Zhao, Tin Lun Lam, “Enhancing Connection Strength in Freeform Modular Reconfigurable Robots through Holey Sphere and Gripper Mechanisms,” <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2025. 
   
-* Rong Ou*, <strong><u>Guanqi Liang*</u></strong>, Tin Lun Lam, "FPECMV: Learning-based Fault-Tolerant Collaborative Localization under Limited Connectivity," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></strong>, 2023
+* Rong Ou, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam, "FPECMV: Learning-based Fault-Tolerant Collaborative Localization under Limited Connectivity," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></strong>, 2023
  
 * Yuxiao Tu, <strong><u>Guanqi Liang</u></strong>, Tin Lun Lam*, "FreeSN: A Freeform Strut-node Structured Modular Self-reconfigurable Robot - Design and Implementation," <strong><i>IEEE International Conference on Robotics and Automation (ICRA)</i></strong>, 2022.
  
