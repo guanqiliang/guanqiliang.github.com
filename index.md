@@ -63,7 +63,7 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 * <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Ming Li, Huihuan Qian, Tin Lun Lam, "FreeBOT: A Freeform Modular Self-reconfigurable Robot with Arbitrary Connection Point - Design and Implementation," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></strong>, 2020. [[IROS Best Paper Award on Robot Mechanisms and Design]](https://www.ieee-ras.org/about-ras/latest-news/iros-2020-award-recipients-honored)
 
 * Yuxiao Tu, <strong><u>Guanqi Liang</u></strong>, Di Wu, Xinzhuo Li, Tin Lun Lam, "Locomotion and self-reconfiguration autonomy for spherical freeform modular robots
-," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2025. [[Front Cover]](https://journals.sagepub.com/toc/ijra/45/3)
+," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2025. [[Cover Article]](https://journals.sagepub.com/toc/ijra/45/3)
 
 * Di Wu, <strong><u>Guanqi Liang</u></strong>, Yuxiao Tu, Lijun Zong, Tin Lun Lam, "Linear-Time Quasi-Static Stability Detection for Modular Reconfigurable Robots," <strong><i>International Journal of Robotics Research (IJRR)</i></strong>, 2025.
 
