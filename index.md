@@ -4,43 +4,43 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
  
 # News
 
-[02/2026] One paper selected as IJRR cover article.
+[02/2026] One paper selected as the cover article of IJRR.
 
-[02/2026] One paper accepted to Advanced Intelligent Systems.
+[02/2026] One paper accepted by Advanced Intelligent Systems.
 
-[01/2026] One paper accepted to Science Robotics.
+[01/2026] One paper accepted by Science Robotics.
 
-[01/2026] Appointed as Youth Editor for SmartBot.
+[01/2026] Appointed Youth Editor for SmartBot.
 
-[01/2026] Appointed as Associate Editor for IEEE Robotics and Automation Letters (RA-L).
+[01/2026] Appointed Associate Editor for IEEE Robotics and Automation Letters (RA-L).
 
-[08/2025] Appointed as Associate Editor for ICRA 2026.
+[08/2025] Appointed Associate Editor for ICRA 2026.
 
-[07/2025] One paper accepted to International Journal of Robotics Research (IJRR).
+[07/2025] One paper accepted by the International Journal of Robotics Research (IJRR).
 
-[05/2025] One paper accepted to IEEE/ASME Transactions on Mechatronics (T-MECH).
+[05/2025] One paper accepted by IEEE/ASME Transactions on Mechatronics (T-MECH).
 
-[05/2025] Our paper was honored as an [ICRA Best Paper Award Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/).
+[05/2025] Our paper was selected as an [ICRA Best Paper Award Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/).
 
-[04/2025] Selected as a [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/participants#:~:text=Fluid%20Environment%20Interactions-,Guanqi%20Liang,-Chinese%20University%20of).
+[04/2025] Selected as an [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/participants#:~:text=Fluid%20Environment%20Interactions-,Guanqi%20Liang,-Chinese%20University%20of).
 
-[01/2025] Appointed as Associate Editor for IROS 2025.
+[01/2025] Appointed Associate Editor for IROS 2025.
 
-[01/2025] Two papers accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025.
+[01/2025] Two papers accepted to ICRA 2025.
 
-[09/2024] One papers accepted to International Journal of Robotics Research (IJRR).
+[09/2024] One paper accepted by the International Journal of Robotics Research (IJRR).
 
-[08/2024] One papers accepted to International Journal of Robotics Research (IJRR).
+[08/2024] One paper accepted by the International Journal of Robotics Research (IJRR).
 
 [08/2024] Received the Best Poster Award at the Annual Conference of the China Robotics Society (中国机器人学术年会最佳海报奖).
 
 [07/2024] Successfully defended my PhD dissertation.
 
-[10/2023] Our work “DISG” was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D)! 
+[10/2023] Our work “DISG” was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D).
 
-[08/2023] One paper accepted to IEEE Transactions on Robotics (T-RO).
+[08/2023] One paper accepted by IEEE Transactions on Robotics (T-RO).
 
-[07/2022] One paper accepted to IEEE Transactions on Robotics (T-RO).
+[07/2022] One paper accepted by IEEE Transactions on Robotics (T-RO).
 
 
 # Selected Publications
