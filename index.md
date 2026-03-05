@@ -14,7 +14,7 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
 
 [01/2026] Appointed Associate Editor for IEEE Robotics and Automation Letters (RA-L).
 
-[08/2025] Appointed Associate Editor for ICRA 2026.
+[08/2025] Appointed Associate Editor for ICRA.
 
 [07/2025] One paper accepted by the International Journal of Robotics Research (IJRR).
 
@@ -24,7 +24,7 @@ Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zh
 
 [04/2025] Selected as an [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/participants#:~:text=Fluid%20Environment%20Interactions-,Guanqi%20Liang,-Chinese%20University%20of).
 
-[01/2025] Appointed Associate Editor for IROS 2025.
+[01/2025] Appointed Associate Editor for IROS.
 
 [01/2025] Two papers accepted to ICRA 2025.
 
