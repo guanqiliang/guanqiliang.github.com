@@ -1,7 +1,7 @@
 # About Me
 
-Hello, I am currently a researcher with the TAMS Group, led by [Prof. Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/), at the University of Hamburg. I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, where I was supervised by [Prof. Tin Lun Lam](https://sites.google.com/site/lamtinlun). My research interests focus on modular robotics and multimodal systems.
- 
+Hello, I am a researcher in modular robotics. I am currently with the TAMS Group, led by [Prof. Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/), at the University of Hamburg. Previously, I received my Ph.D. from The Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tin Lun Lam](https://sites.google.com/site/lamtinlun).
+
 # News
 
 [02/2026] One paper selected as the cover article of IJRR.
