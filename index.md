@@ -151,7 +151,9 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 <strong>Reviewer</strong>
 
-* Science Robotics (SR)
+* Science Robotics
+
+* Nature Communications
 
 * International Journal of Robotics Research (IJRR)
 
