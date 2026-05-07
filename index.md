@@ -161,6 +161,8 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
   
 * IEEE/ASME Transactions on Mechatronics (T-MECH)
   
+* IEEE Transactions on Automation Science and Engineering (T-ASE)
+  
 * Autonomous Robots (AURO)
   
 * Journal of Field Robotics (JFR)
