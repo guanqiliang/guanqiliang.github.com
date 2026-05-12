@@ -34,8 +34,6 @@ Hello, I am a researcher in modular robotics. I am currently with the TAMS Group
 
 [08/2024] Received the Best Poster Award at the Annual Conference of the China Robotics Society (中国机器人学术年会最佳海报奖).
 
-[07/2024] Successfully defended my PhD dissertation.
-
 [10/2023] Our work “DISG” was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D).
 
 [08/2023] One paper accepted by IEEE Transactions on Robotics (T-RO).
