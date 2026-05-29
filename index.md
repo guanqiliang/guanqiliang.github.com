@@ -175,8 +175,9 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
+* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
 
-
+* International Conference on Ubiquitous Robots (UR)
 <br>
 
 
