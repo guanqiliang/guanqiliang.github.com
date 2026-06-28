@@ -166,6 +166,8 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 * Journal of Field Robotics (JFR)
 
 * IEEE Robotics and Automation Letters (RA-L)
+
+* SmartBot
   
 * Mechatronics
 
