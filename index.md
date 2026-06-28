@@ -135,9 +135,9 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 
 * FreeBOT: A Freeform Modular Robot with Arbitrary Connection, IROS, Las Vegas, Oct 2020
 
-# Service
+# Professional Service
 
-<strong>Editorial Service</strong>
+<strong>Editorial</strong>
 
 * Associate Editor, IEEE Robotics and Automation Letters (RA-L)
 
@@ -147,7 +147,7 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
   
 * Youth Editor, SmartBot
 
-<strong>Reviewer</strong>
+<strong>Peer Review</strong>
 
 * Science Robotics
 
