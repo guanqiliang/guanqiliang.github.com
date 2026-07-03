@@ -4,6 +4,8 @@ Hello, I am a researcher in modular robotics. I am currently with the TAMS Group
 
 # News
 
+[07/2026] Appointed Youth Editor for Cyborg and Bionic Systems.
+
 [02/2026] One paper selected as the cover article of IJRR.
 
 [02/2026] One paper accepted by Advanced Intelligent Systems.
@@ -119,12 +121,14 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 <strong>Editorial</strong>
 
 * Associate Editor, IEEE Robotics and Automation Letters (RA-L)
+  
+* Youth Editor, Cyborg and Bionic Systems
+  
+* Youth Editor, SmartBot
 
 * Associate Editor, IEEE International Conference on Robotics and Automation (ICRA)
 
 * Associate Editor, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  
-* Youth Editor, SmartBot
 
 <strong>Peer Review</strong>
 
