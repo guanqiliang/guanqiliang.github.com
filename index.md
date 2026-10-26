@@ -38,13 +38,6 @@ Hello, I am a researcher in modular robotics. I am currently with the TAMS Group
 
 [08/2024] Received the Best Poster Award at the Annual Conference of the China Robotics Society (中国机器人学术年会最佳海报奖).
 
-[10/2023] Our work “DISG” was featured in [IEEE Spectrum](https://spectrum.ieee.org/video-friday-welcome-to-fall#:~:text=%5B%20Freeform%20Robotics%20%5D).
-
-[08/2023] One paper accepted by IEEE Transactions on Robotics (T-RO).
-
-[07/2022] One paper accepted by IEEE Transactions on Robotics (T-RO).
-
-
 # Selected Publications
 
 * <strong><u>Guanqi Liang</u></strong>, Auke Jan Ijspeert, Mark Yim, Tin Lun Lam, "Modular Reconfigurable Robots: Towards On-Demand Multifunctional Applications," <strong><i>Science Robotics</i></strong>, 2026.
