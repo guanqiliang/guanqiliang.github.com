@@ -4,6 +4,8 @@ Hello, I am a researcher in modular robotics. I am currently with the TAMS Group
 
 # News
 
+[10/2026] Received the GCI Outstanding Young Scientist Award.
+
 [07/2026] Appointed Youth Editor for Cyborg and Bionic Systems.
 
 [02/2026] One paper selected as the cover article of IJRR.
@@ -82,6 +84,8 @@ Science and Systems. </i></strong> [[RSS Pioneers 2025]](https://sites.google.co
 * Ming Li, <strong><u>Guanqi Liang</u></strong>, Haobo Luo, Huihuan Qian, Tin Lun Lam, "Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization," <strong><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></strong>, 2020.
 
 # Awards
+
+* <strong>GCI Outstanding Young Scientist Award</strong>, GCI, 2026
 
 * <strong>RSS Pioneers</strong>, Robotics: Science and Systems (RSS), 2025
   
