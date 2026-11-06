@@ -14,29 +14,6 @@ Hello, I am a researcher in modular robotics. I am currently with the TAMS Group
 
 [01/2026] One paper accepted by Science Robotics.
 
-[01/2026] Appointed Youth Editor for SmartBot.
-
-[01/2026] Appointed Associate Editor for IEEE Robotics and Automation Letters (RA-L).
-
-[08/2025] Appointed Associate Editor for ICRA.
-
-[07/2025] One paper accepted by the International Journal of Robotics Research (IJRR).
-
-[05/2025] One paper accepted by IEEE/ASME Transactions on Mechatronics (T-MECH).
-
-[05/2025] Our paper was selected as an [ICRA Best Paper Award Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/).
-
-[04/2025] Selected as an [RSS Pioneers 2025](https://sites.google.com/view/rsspioneers2025/participants#:~:text=Fluid%20Environment%20Interactions-,Guanqi%20Liang,-Chinese%20University%20of).
-
-[01/2025] Appointed Associate Editor for IROS.
-
-[01/2025] Two papers accepted to ICRA 2025.
-
-[09/2024] One paper accepted by the International Journal of Robotics Research (IJRR).
-
-[08/2024] One paper accepted by the International Journal of Robotics Research (IJRR).
-
-[08/2024] Received the Best Poster Award at the Annual Conference of the China Robotics Society (中国机器人学术年会最佳海报奖).
 
 # Selected Publications
 
